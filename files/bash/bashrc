@@ -128,4 +128,4 @@ set -o vi
 
 # Switch CAPS LOCK and escape keys
 setxkbmap -option caps:swapescape
-
+/bin/bash: q: command not found
